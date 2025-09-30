@@ -1,4 +1,4 @@
-//To calculate leap year
+//To compare three no.s
 #include<stdio.h>
 int main(){
 	int a,b,c;
