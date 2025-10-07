@@ -10,7 +10,7 @@ int main(){
 	len=0;
 	for(temp=temp;temp!=0;temp/=10,len++){
 	}
-	temp=n;
+		temp=n;
 	for(temp=temp;temp!=0;temp/=10){
 		ld=temp%10;
 		sum+=pow(ld,len);
