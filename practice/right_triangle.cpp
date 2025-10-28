@@ -1,6 +1,6 @@
 //Program to print right triangle of *
-/* *
-   *	*
+/* 			 *
+   		*	 *
    *	*	 * */
 #include<stdio.h>
 int main(){
