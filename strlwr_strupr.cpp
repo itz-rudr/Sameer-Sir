@@ -6,8 +6,10 @@ int main(){
 	printf("Enter name: ");
 	scanf("%s",a);
 	strcpy(b,a);
+	//Pre-defined function to convert string into lowercase
 	strlwr(b);
 	strcpy(c,a);
+	//Pre-defined function to convert string into uppercase
 	strupr(c);
 	printf("a = %s\n",a);
 	printf("b = %s\n",b);
