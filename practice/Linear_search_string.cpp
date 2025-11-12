@@ -6,7 +6,7 @@ int main(){
 	int i,n,f=0;
 	printf("Enter number of students:\n");
 	scanf("%d",&n);
-	printf("Enter name of %d students:\n");
+	printf("Enter name of %d students:\n",n);
 	for(i=0;i<n;i++){
 		scanf("%s",a[i]);
 	}
